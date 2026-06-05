@@ -30,14 +30,3 @@ This project contains implementations, explanations, and practical examples of s
 
 The repository is organized into modules covering different statistical topics relevant to AI and machine learning.
 
-## Contributing
-
-Contributions are welcome! Feel free to submit issues and pull requests.
-
-## License
-
-This project is open source and available under the MIT License.
-
----
-
-For more information, visit the [repository](https://github.com/Thenn-Goshawk/Statistical-Methods-for-AI-and-Machine-Learning).
