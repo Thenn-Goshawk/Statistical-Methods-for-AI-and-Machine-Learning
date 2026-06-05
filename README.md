@@ -19,13 +19,6 @@ This project contains implementations, explanations, and practical examples of s
 
 - **Python**: Primary programming language
 
-## Getting Started
-
-1. Clone the repository
-2. Install required dependencies
-3. Explore the examples and implementations in the various modules
-4. Run scripts to see statistical methods in action
-
 ## Structure
 
 The repository is organized into modules covering different statistical topics relevant to AI and machine learning.
